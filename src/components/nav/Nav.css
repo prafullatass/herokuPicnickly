@@ -1,0 +1,36 @@
+.flexContainer {
+    display : inline;
+}
+
+.Hidden {
+    display: none;
+}
+.Visible {
+    visibility: visible;
+}
+
+#name{
+    text-align: center;
+}
+.logout{
+    float : right;
+}
+.titleBar{
+    display: flex;
+    height: 40px;
+}
+.userName {
+    font-family: "Times New Roman', Times, serif";
+    font-size: 20px;
+}
+
+.title{
+    text-decoration: none;
+    font-family:"Times New Roman', Times, serif";
+    font-weight: bolder;
+    font-size:x-large;
+    color:rebeccapurple;
+}
+.height{
+    height: 27px;
+}

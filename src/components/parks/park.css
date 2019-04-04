@@ -1,0 +1,19 @@
+.address {
+    margin-left: 75px;
+}
+.addr{
+    width : 400px;
+}
+.name {
+    margin-left: 4px;
+    width : 400px;
+}
+
+.details {
+    height: 500px;
+    width : 400px;
+    overflow: auto;
+}
+.details_div{
+    margin-left: 47px;
+}
